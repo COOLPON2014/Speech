@@ -1,4 +1,4 @@
-﻿/*
+/*
 Copyright (C): 2010-2019, Shenzhen Yahboom Tech
 modified from wujianzhang
 load dependency
@@ -8,7 +8,7 @@ load dependency
 //% color="#3CB371" weight=20 icon="\uf0a1"
 namespace Speech {
     
-    const DATA_HEAD = 0xFD                  //帧头
+    const DATA_HEAD = 0xFD                  //幀頭
     
     let I2C_ADDR = 0x30 
 
